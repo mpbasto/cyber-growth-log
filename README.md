@@ -9,8 +9,6 @@ It's not a teaching resource — it's a learning record.
 
 - Personal threat models, checklists, and simplified explainers
 
-- A growing VIP security toolkit aimed at helping individuals maintain digital and physical privacy
-
 - Reflections, resources, and useful links to deepen both technical skills and security thinking
 
 **📅 Goal**: To transition from junior software engineer to cybersecurity specialist, by merging technical upskilling with modern privacy concerns, human threat modeling, and hands-on tools.
